@@ -1,7 +1,11 @@
 {
     "input": {
-        "s3_key":"uploads/8290926-sd_960_540_30fps.mp4",
-        "content_type": "video",
-        "kbId": "657"
+        "s3_key":"uploads/image (1).png",
+        "content_type": "image",
+        "kbId": "32",
+        "title": "image.png",
+        "mongodb_srv": "mongodb+srv://ifrahharif:s2eiHK3G3gXlypXH@cluster0.y6inraf.mongodb.net/",
+        "unique_id": "6"
     }
 }
+
